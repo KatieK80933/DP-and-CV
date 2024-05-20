@@ -6,4 +6,4 @@ The _# codes correspond to epoch amounts.
 
 _og is just the PKLot dataset, _baw is black and white, _aug is augmented, and _empty is just empty labels.
 
-The .xlsx file shows a table that we kept for tracking the results of blurring images.
+The .xlsx file shows a table that we kept for tracking the results of blurring images. The test- folders contain the different datasets used to produce our results found in the spreadsheet.
